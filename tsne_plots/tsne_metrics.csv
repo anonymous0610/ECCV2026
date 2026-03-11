@@ -1,0 +1,10 @@
+Model,Checkpoint,Silhouette,Continuity,KNN_Preservation(k=10)
+D-ViCe,best.ckpt,-0.077870615,0.44625,0.44625
+SimCLR,best.ckpt,-0.17057914,0.4042,0.4042
+MoCo,best.ckpt,-0.20581536,0.46595,0.46595
+BYOL,best.ckpt,-0.20595735,0.42835,0.42835
+SimSiam,best.ckpt,-0.21619219,0.59885,0.59885
+Swav,best.ckpt,-0.2047177,0.66905,0.66905
+Barlow Twins,best.ckpt,-0.18433307,0.6752,0.6752
+VICReg,best.ckpt,-0.27055603,0.63035,0.63035
+DINO,best.ckpt,-0.27420378,0.45175,0.45175
